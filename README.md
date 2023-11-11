@@ -22,7 +22,7 @@ Whether you're an experienced developer, a curious researcher, or simply a techn
 📬 Connect with Us:
 Stay up-to-date with our latest developments, discussions, and insights by reaching to us on [Discord](https://discord.gg/3US7BJC82V) and joining our community forums. Together, we can explore the limitless potential of technology while prioritizing security and trust.
 
-Thank you for visiting our GitHub page. Let's build, secure, and innovate together!
+Thank you for visiting our GitHub page.
 
 Best regards,
 
