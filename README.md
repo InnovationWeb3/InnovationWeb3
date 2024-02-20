@@ -26,5 +26,5 @@ Thank you for visiting our GitHub page.
 
 Best regards,
 
-Innovation Web 3.0 | CyberAnon1010101 | Founder
+Innovation Web 3.0 
 
