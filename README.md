@@ -2,9 +2,9 @@
 
 🌐 About Us:   
 
-We are a passionate and innovative company that is dedicated to pushing the boundaries 
-of technology through collaborative efforts in the realms of Blockchain, Cryptography, and IT. Our repositories serves as a hub for cutting-edge 
-projects, insightful research, and practical resources that aim to e how we perceive and interact with the digital world.
+We are an innovative company that is dedicated to pushing the boundaries 
+of technology through collaborative efforts in the realms of Blockchain and IT. Our repositories serves as a hub for cutting-edge 
+projects, insightful research, and practical resources that aim to help with how we perceive and interact with the digital world.
 
 🔗 What We Offer:
 
