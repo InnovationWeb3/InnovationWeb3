@@ -18,10 +18,6 @@ projects, insightful research, and practical resources that aim to help with how
 
 Whether you're an experienced developer, a curious researcher, or simply a technology enthusiast, our repository welcomes you to collaborate, contribute, and learn. By sharing knowledge and fostering open dialogue, we believe in driving innovation forward and collectively shaping a more secure and decentralized future.
 
-📬 Connect with Us:    
-
-Stay up-to-date with our latest developments, discussions, and insights by reaching to us on [Discord](https://discord.gg/3US7BJC82V). Together, we can explore the limitless potential of technology while prioritizing security and trust.
-
 Thank you for visiting our GitHub page.
 
 Best regards,
