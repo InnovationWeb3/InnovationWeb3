@@ -1,4 +1,4 @@
-**UPDATE**: We have been really busy for the past 3 months due to the crypto rally. We have been working a lot behind the scenes to ensure the safety of some protocols, as well as expanding the company. We will be back with new tools and coding projects by the end of the month. Thank you for your patience. { 2024-05-09 }
+**UPDATE**: We have been really busy for the past few months due to the crypto rally. We have been working a lot behind the scenes to ensure the safety of some protocols, as well as expanding the company. We will be back with new tools and coding projects by the end of October. Thank you for your patience. { 2024-09-28 }
 
 🔒 Welcome to Our GitHub Page! 🔒
 
